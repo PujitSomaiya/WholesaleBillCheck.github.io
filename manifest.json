@@ -1,6 +1,6 @@
 {
-    "name": "WholesaleBillCheck.github.io",
-    "short_name": "WholesaleBillCheck.github.io",
+    "name": "wholesale_bill_check",
+    "short_name": "wholesale_bill_check",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
